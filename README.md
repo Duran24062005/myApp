@@ -42,3 +42,11 @@ npm install
 npx react-native init NavigationApp
 
 npm start
+
+
+COMANDOS PARA SUBIR EL CDIGO A GITHUB
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Duran24062005/myApp.git
+git push -u origin master
